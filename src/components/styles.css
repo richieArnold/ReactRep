@@ -1,0 +1,30 @@
+/* h1 {
+  color: red;
+  text-align: center;
+  background-color: aliceblue;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+p {
+  text-align: justify;
+  padding: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.content {
+  background-color: antiquewhite;
+  padding-top: 15px;
+} */
+/* list, table -> parent and child relationship */
+/* what is a component,create a functional component, import images, external styling */
+
+/* class component - how to create class component */
